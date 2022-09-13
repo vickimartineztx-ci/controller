@@ -1,0 +1,4 @@
+variables:
+- team: vickimartineztx-ci
+- admin-user: vickimartineztx-admin
+- manager-user: vickimartineztx
